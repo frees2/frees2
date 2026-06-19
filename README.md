@@ -13,10 +13,7 @@
 ## <img src="https://cdn.simpleicons.org/discord/5865F2" width="20" />   My Discord Servers
 
 <p align="center">
-<a href="https://discord.gg/ydn8dhWCZ">
-  <img src="https://img.shields.io/badge/OpenBrach-Join-2B2D31?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-  
+
 <a href="https://discord.gg/dTxYgm2vst">
   <img src="https://img.shields.io/badge/Rivox%20Bots-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
