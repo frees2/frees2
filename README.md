@@ -1,6 +1,6 @@
 <div align="center">
   
-# wsfr <img src="https://img.shields.io/badge/✓-1DA1F2?style=flat&labelColor=1DA1F2&color=1DA1F2" />
+# Frees <img src="https://img.shields.io/badge/✓-1DA1F2?style=flat&labelColor=1DA1F2&color=1DA1F2" />
 <b>2frees@proton.me</b>  /  <a href="https://discord.com/users/535374788726751232">Discord</a>
 </div>
 
